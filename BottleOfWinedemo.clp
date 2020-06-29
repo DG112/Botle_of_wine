@@ -689,7 +689,7 @@
 
    =>
 
-   (assert (UI-state (display DupaFinal)
+   (assert (UI-state (display DontDeserveFinal)
                      (state final))))
 
 ;;;*************************
